@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda328ae-990e-40c1-8bc6-43d91bfdc9e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theCommonTalk/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/theCommonTalk/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/users/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -29,11 +29,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bloger/templates/bloger/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="212" selection-start-line="5" selection-start-column="212" selection-end-line="5" selection-end-column="212" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/theCommonTalk/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="122" column="49" selection-start-line="122" selection-start-column="49" selection-end-line="122" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -66,7 +84,6 @@
         <option value="$PROJECT_DIR$/bloger/models.py" />
         <option value="$PROJECT_DIR$/users/views.py" />
         <option value="$PROJECT_DIR$/bloger/templates/bloger/post_confirm_delete.html" />
-        <option value="$PROJECT_DIR$/bloger/templates/bloger/base.html" />
         <option value="$PROJECT_DIR$/post.json" />
         <option value="$PROJECT_DIR$/bloger/urls.py" />
         <option value="$PROJECT_DIR$/bloger/templates/bloger/post_detail.html" />
@@ -78,20 +95,22 @@
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_confirm.html" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset.html" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_done.html" />
-        <option value="$PROJECT_DIR$/theCommonTalk/settings.py" />
         <option value="$PROJECT_DIR$/theCommonTalk/urls.py" />
         <option value="$PROJECT_DIR$/users/templates/users/password_reset_complete.html" />
         <option value="$PROJECT_DIR$/users/templates/users/login.html" />
         <option value="$PROJECT_DIR$/users/templates/users/register.html" />
-        <option value="$PROJECT_DIR$/users/models.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/bloger/templates/bloger/base.html" />
+        <option value="$PROJECT_DIR$/users/models.py" />
+        <option value="$PROJECT_DIR$/theCommonTalk/settings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="682" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="706" />
     <option name="y" value="31" />
-    <option name="width" value="678" />
+    <option name="width" value="654" />
     <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -110,7 +129,25 @@
             <path>
               <item name="theCommonTalk" type="b2602c69:ProjectViewProjectNode" />
               <item name="theCommonTalk" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="bloger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="theCommonTalk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="theCommonTalk" type="462c0819:PsiDirectoryNode" />
+              <item name="bloger" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="theCommonTalk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="theCommonTalk" type="462c0819:PsiDirectoryNode" />
+              <item name="bloger" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="bloger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="theCommonTalk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="theCommonTalk" type="462c0819:PsiDirectoryNode" />
+              <item name="theCommonTalk" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,16 +201,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="25" width="1315" height="743" extended-state="6" />
+    <frame x="706" y="31" width="654" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" order="0" side_tool="true" weight="0.3280757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24763407" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.329653" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.47910216" />
+      <window_info content_ui="combo" id="Project" order="3" weight="0.3977813" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Python Console" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.46859083" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.37894738" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32933104" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -309,13 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bloger/templates/bloger/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="34" column="96" selection-start-line="34" selection-start-column="96" selection-end-line="34" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bloger/templates/bloger/post_detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -361,13 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theCommonTalk/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
         </state>
       </provider>
     </entry>
@@ -437,20 +460,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloger/templates/bloger/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="212" selection-start-line="5" selection-start-column="212" selection-end-line="5" selection-end-column="212" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/users/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/theCommonTalk/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="122" column="49" selection-start-line="122" selection-start-column="49" selection-end-line="122" selection-end-column="49" />
         </state>
       </provider>
     </entry>
